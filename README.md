@@ -31,6 +31,7 @@ FarmBridge is a smart digital agricultural marketplace designed to create a dire
 ## Technical Approach
 FarmBridge will be developed as a user-friendly web and mobile-based platform. The frontend can be developed using HTML, CSS, JavaScript and React, while Python with Flask or Django can be used for backend development. MySQL or PostgreSQL can store farmer profiles, product details, customer orders, prices and transaction records. The system will include separate dashboards for farmers and buyers, a crop listing module, a smart group ordering module and an order tracking system. A location-based feature can help identify nearby farmers and buyers, while a notification system can inform users about new orders, price changes and delivery updates. The complete process begins when a farmer uploads crop details, followed by buyer selection, group order formation, order confirmation and delivery coordination.
 
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b1e7b574-dc4c-4c09-bab0-15668856fb04" />
 
 
